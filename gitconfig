@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carlosfernando.zh@gmail.com
+	name = fernando zuniga
